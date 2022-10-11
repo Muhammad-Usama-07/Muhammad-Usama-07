@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### My Github States
+
+![States](https://github-readme-stats.vercel.app/api?username=Muhammad-Usama-07&theme=radical&&show_icons=true)
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -25,8 +29,8 @@ Here are some ideas to get you started:
 </div>
 
 
-![States](https://github-readme-stats.vercel.app/api?username=Muhammad-Usama-07&theme=radical&&show_icons=true)
 
+### Connect me on social platforms
 <div id="badges">
   <a href="https://www.youtube.com/channel/UCM1xR4JMhtWSpWTVyt3-UbQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
