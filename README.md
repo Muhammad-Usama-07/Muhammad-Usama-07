@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🗣 I’m currently working on Real Time Speech-to-Text
-- 📈 I’m currently learning DataScience track from DataCamp 
+- 📈 I’m currently studying masters in Science (DataScience) 
 - 💬 Ask me about Artificial Intelligence related work
 <!--
 - 👯 I’m looking to collaborate on ...
