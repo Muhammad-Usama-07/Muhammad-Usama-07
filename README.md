@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 
 
-### ![Connect me on social platforms](https://user-images.githubusercontent.com/51862131/197327046-401dd0ec-e8a0-4395-8559-181b204d0f30.png)
+### 🚀 Connect me on social platforms
  
 <div id="badges">
   <a href="https://www.youtube.com/channel/UCM1xR4JMhtWSpWTVyt3-UbQ">
