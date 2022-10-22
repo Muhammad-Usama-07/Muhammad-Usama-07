@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ![States](https://github-readme-stats.vercel.app/api?username=Muhammad-Usama-07&theme=radical&&show_icons=true)
 
-### :hammer_and_wrench: Languages and Tools : ## 🚀 Frameworks & Library
+### :hammer_and_wrench: Frameworks & Libraries
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
@@ -39,7 +39,8 @@ Here are some ideas to get you started:
 
 
 
-### Connect me on social platforms
+### ![Connect me on social platforms](https://user-images.githubusercontent.com/51862131/197327046-401dd0ec-e8a0-4395-8559-181b204d0f30.png)
+ 
 <div id="badges">
   <a href="https://www.youtube.com/channel/UCM1xR4JMhtWSpWTVyt3-UbQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
