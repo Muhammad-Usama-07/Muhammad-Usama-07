@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My Github States
+### My Github Stats
 
 ![States](https://github-readme-stats.vercel.app/api?username=Muhammad-Usama-07&theme=radical&&show_icons=true)
 
